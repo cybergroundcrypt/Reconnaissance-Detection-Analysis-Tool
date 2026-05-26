@@ -1,5 +1,9 @@
 # Reconnaissance Detection & Analysis Tool
 
+## Acknowledgments
+
+Special thanks to Dr. Karthika Subramani for her mentorship, encouragement, and guidance throughout this research project.
+
 ## Description
 
 This project consists of two main components:
